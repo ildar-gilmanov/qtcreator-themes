@@ -18,7 +18,7 @@ Light
 Install
 --------
 
-Place `.xml` files into `share/qtcreator/styles` or `~/.config/QtProject/qtcreator/styles/` folder.
+Place `styles/*.xml` files into `~/.config/QtProject/qtcreator/styles/` folder, and if you want dark theme, place `themes/ildar-dark.creatortheme` file into `~/.config/QtProject/qtcreator/themes/` folder.
 
 Compatibility
 -------------
