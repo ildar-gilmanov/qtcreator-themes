@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Ildar-dark">
-  <style name="Text" foreground="#d1d1d1" background="#494e58"/>
+  <style name="Text" foreground="#ffffff" background="#494e58"/>
   <style name="Link" foreground="#0a95ff"/>
   <style name="Selection" foreground="#ffffff" background="#006fb4"/>
   <style name="LineNumber" foreground="#a1a1a1" background="#5a606c"/>
   <style name="SearchResult" foreground="#0d0d0d" background="#b36127"/>
-  <style name="SearchScope" foreground="#000000" background="#f3f8fc"/>
+  <style name="SearchScope" foreground="#000000" background="#dee3e6"/>
   <style name="Parentheses" foreground="#ff0000" background="#b4eeb4"/>
   <style name="ParenthesesMismatch" foreground="#000000" background="#ff00ff"/>
   <style name="CurrentLine" foreground="#000000" background="#b3d4e9"/>
@@ -16,16 +16,16 @@
   <style name="Number" foreground="#ffffff"/>
   <style name="String" foreground="#00ff00"/>
   <style name="Type" foreground="#00ffe2"/>
-  <style name="Local" foreground="#d1d1d1"/>
+  <style name="Local" foreground="#ffffff"/>
   <style name="Field" foreground="#82d8ff"/>
   <style name="Static" foreground="#ff92a6" italic="true"/>
-  <style name="VirtualMethod" foreground="#d1d1d1" italic="true"/>
-  <style name="Function" foreground="#d1d1d1"/>
+  <style name="VirtualMethod" foreground="#ffffff" italic="true"/>
+  <style name="Function" foreground="#ffffff"/>
   <style name="Keyword" foreground="#73ff5d"/>
   <style name="PrimitiveType" foreground="#00ffe2"/>
   <style name="Operator" foreground="#73ff5d"/>
   <style name="Preprocessor" foreground="#ffbab4"/>
-  <style name="Label" foreground="#800000"/>
+  <style name="Label" foreground="#df6888"/>
   <style name="Comment" foreground="#ff9ba5"/>
   <style name="Doxygen.Comment" foreground="#74a0ff"/>
   <style name="Doxygen.Tag" foreground="#9096ff" bold="true"/>
@@ -35,7 +35,7 @@
   <style name="QmlTypeId" foreground="#00ffe2"/>
   <style name="QmlRootObjectProperty" foreground="#d1d1d1" italic="true"/>
   <style name="QmlScopeObjectProperty" foreground="#d1d1d1" italic="true"/>
-  <style name="QmlExternalObjectProperty" foreground="#4f75ff" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#c8beff" italic="true"/>
   <style name="JsScopeVar" foreground="#7bbfff" italic="true"/>
   <style name="JsImportVar" foreground="#5d68ff" italic="true"/>
   <style name="JsGlobalVar" foreground="#6c9aaf" italic="true"/>
