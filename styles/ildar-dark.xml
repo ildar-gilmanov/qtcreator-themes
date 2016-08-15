@@ -17,7 +17,7 @@
   <style name="String" foreground="#00ff00"/>
   <style name="Type" foreground="#00ffe2"/>
   <style name="Local" foreground="#ffffff"/>
-  <style name="Field" foreground="#82d8ff"/>
+  <style name="Field" foreground="#96e6ff"/>
   <style name="Static" foreground="#ff92a6" italic="true"/>
   <style name="VirtualMethod" foreground="#ffffff" italic="true"/>
   <style name="Function" foreground="#ffffff"/>
@@ -27,7 +27,7 @@
   <style name="Preprocessor" foreground="#ffbab4"/>
   <style name="Label" foreground="#df6888"/>
   <style name="Comment" foreground="#ff9ba5"/>
-  <style name="Doxygen.Comment" foreground="#74a0ff"/>
+  <style name="Doxygen.Comment" foreground="#86b1ff"/>
   <style name="Doxygen.Tag" foreground="#9096ff" bold="true"/>
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
   <style name="QmlLocalId" foreground="#d1d1d1" italic="true"/>
@@ -41,7 +41,7 @@
   <style name="JsGlobalVar" foreground="#6c9aaf" italic="true"/>
   <style name="QmlStateName" foreground="#d1d1d1" italic="true"/>
   <style name="Binding" foreground="#82d8ff"/>
-  <style name="DisabledCode" foreground="#000000" background="#4d525d"/>
+  <style name="DisabledCode" foreground="#b9b9b9" background="#41454f"/>
   <style name="AddedLine" foreground="#00aa00"/>
   <style name="RemovedLine" foreground="#ff8f8b"/>
   <style name="DiffFile" foreground="#000080"/>
@@ -53,4 +53,8 @@
   <style name="DiffDestLine" foreground="#000000" background="#dfffdf"/>
   <style name="DiffDestChar" foreground="#000000" background="#afffaf"/>
   <style name="LogChangeLine" foreground="#c07760"/>
+  <style name="Warning" underlineColor="#ffbe00" underlineStyle="SingleUnderline"/>
+  <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
+  <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
+  <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
 </style-scheme>
