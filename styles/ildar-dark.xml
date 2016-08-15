@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Ildar-dark">
-  <style name="Text" foreground="#ffffff" background="#494e58"/>
+  <style name="Text" foreground="#f1f1f1" background="#464a54"/>
   <style name="Link" foreground="#0a95ff"/>
   <style name="Selection" foreground="#ffffff" background="#006fb4"/>
-  <style name="LineNumber" foreground="#a1a1a1" background="#5a606c"/>
+  <style name="LineNumber" foreground="#a1a1a1" background="#4e545e"/>
   <style name="SearchResult" foreground="#0d0d0d" background="#b36127"/>
   <style name="SearchScope" foreground="#000000" background="#dee3e6"/>
   <style name="Parentheses" foreground="#ff0000" background="#b4eeb4"/>
