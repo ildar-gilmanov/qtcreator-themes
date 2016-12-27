@@ -33,14 +33,14 @@
   <style name="Doxygen.Tag" foreground="#9096ff" bold="true"/>
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
   <style name="QmlLocalId" foreground="#d1d1d1" italic="true"/>
-  <style name="QmlExternalId" foreground="#ffff00" italic="true"/>
+  <style name="QmlExternalId" foreground="#ffff00" bold="true" italic="true"/>
   <style name="QmlTypeId" foreground="#00ffe2"/>
-  <style name="QmlRootObjectProperty" foreground="#ffff00" bold="true" italic="true"/>
+  <style name="QmlRootObjectProperty" foreground="#ffff00" italic="true"/>
   <style name="QmlScopeObjectProperty" foreground="#d1d1d1" italic="true"/>
-  <style name="QmlExternalObjectProperty" foreground="#ffff00" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#ffff00" bold="true" italic="true"/>
   <style name="JsScopeVar" foreground="#7bbfff" italic="true"/>
   <style name="JsImportVar" foreground="#5d68ff" italic="true"/>
-  <style name="JsGlobalVar" foreground="#ffff00"/>
+  <style name="JsGlobalVar" foreground="#ffff00" bold="true"/>
   <style name="QmlStateName" foreground="#d1d1d1" italic="true"/>
   <style name="Binding" foreground="#82d8ff"/>
   <style name="DisabledCode" foreground="#b9b9b9" background="#41454f"/>
