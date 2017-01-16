@@ -18,7 +18,8 @@ Light
 Install
 --------
 
-Place `styles/*.xml` files into `~/.config/QtProject/qtcreator/styles/` folder, and if you want dark theme, place `themes/ildar-dark.creatortheme` file into `~/.config/QtProject/qtcreator/themes/` folder.
+Place `styles/*.xml` files into `~/.config/QtProject/qtcreator/styles/` folder, and if you want dark theme, place `themes/ildar-dark.creatortheme` and `themes/ildar-dark-x.creatortheme` file into `~/.config/QtProject/qtcreator/themes/` folder.  
+Also, for dark themes you could change TODO panel color scheme by replacing `[TodoPlugin]` section in `~/.config/QtProject/QtCreator.ini` file with content of the `todo-dark-colors` file.
 
 Compatibility
 -------------

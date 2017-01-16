@@ -1,0 +1,25 @@
+[TodoPlugin]
+Keywords\1\color=@Variant(\0\0\0\x43\x1\xff\xff\x82\x82\x14\x14\x6\x6\0\0)
+Keywords\1\iconResource=:/projectexplorer/images/compile_error.png
+Keywords\1\iconType=1
+Keywords\1\name=BUG
+Keywords\2\color=@Variant(\0\0\0\x43\x1\xff\xff\x82\x82\x14\x14\x6\x6\0\0)
+Keywords\2\iconResource=:/projectexplorer/images/compile_error.png
+Keywords\2\iconType=1
+Keywords\2\name=FIXME
+Keywords\3\color=@Variant(\0\0\0\x43\x1\xff\xffXX\\\\dd\0\0)
+Keywords\3\iconResource=:/todoplugin/images/info.png
+Keywords\3\iconType=0
+Keywords\3\name=NOTE
+Keywords\4\color=@Variant(\0\0\0\x43\x1\xff\xff\x12\x12\x39\x39\a\a\0\0)
+Keywords\4\iconResource=:/projectexplorer/images/compile_warning.png
+Keywords\4\iconType=2
+Keywords\4\name=TODO
+Keywords\5\color=@Variant(\0\0\0\x43\x1\xff\xff\x66\x66NN  \0\0)
+Keywords\5\iconResource=:/projectexplorer/images/compile_warning.png
+Keywords\5\iconType=2
+Keywords\5\name=WARNING
+Keywords\size=5
+OutputPaneFileColumnWidth=783
+OutputPaneTextColumnWidth=647
+ScanningScope=1
