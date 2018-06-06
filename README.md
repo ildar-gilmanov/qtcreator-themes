@@ -1,5 +1,5 @@
 # qtcreator-themes
-Some themes for QtCreator
+A few themes for QtCreator
 
 Dark
 ----
